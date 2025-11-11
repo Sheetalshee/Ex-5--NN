@@ -9,7 +9,7 @@ To implement a XOR gate classification using Radial Basis Function  Neural Netwo
 <P>Exclusive or is a logical operation that outputs true when the inputs differ.For the XOR gate, the TRUTH table will be as follows XOR truth table </P>
 
 <P>XOR is a classification problem, as it renders binary distinct outputs. If we plot the INPUTS vs OUTPUTS for the XOR gate, as shown in figure below </P>
-
+ 
 
 
 
